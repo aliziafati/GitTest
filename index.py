@@ -13,3 +13,6 @@ def call_num(num):
 
 if __name__ == "__main__":
     print(call_num(num))
+
+
+ptinfo = "Nikam"
