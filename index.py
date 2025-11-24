@@ -17,5 +17,4 @@ if __name__ == "__main__":
 
 print = "Nikam"
 
-
-print("This is a test message.")
+print(f"My name is {print}.")
