@@ -11,3 +11,8 @@ def diff_nums(num1, num2):
     return num1 - num2
 diff_result = diff_nums(num1, num2)
 print("Difference:", diff_result)
+
+def prod_nums(num1, num2):
+    return num1 * num2
+prod_result = prod_nums(num1, num2)
+print("Product:", prod_result)
