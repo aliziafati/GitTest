@@ -18,3 +18,5 @@ if __name__ == "__main__":
 print = "Nikam"
 
 print(f"My name is {print}.")
+
+print("alizia1")
